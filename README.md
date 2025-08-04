@@ -33,3 +33,6 @@ The design of QuickCart is mobile-first, ensuring that all features are fully ac
 In conclusion, QuickCart is a fully functional PWA that demonstrates the power of combining web development with native app capabilities. It is a perfect example of how modern e-commerce applications can be made fast, reliable, and engaging—without needing app store installation. This project showcases practical skills in progressive enhancement, responsive design, service workers, and client-side storage, making it ideal for real-world deployment.
 
 # OUTPUT
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/715c2ce5-2b41-4198-b459-6411f9b8f53e" />
+
